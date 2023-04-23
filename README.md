@@ -1,7 +1,7 @@
-# A pig that doesn't fly is just a pig  
+<img width="200" alt="Screen Shot 2022-12-04 at 17 25 34" src="https://user-images.githubusercontent.com/88586592/233834908-dea251cc-72a9-4cb4-a984-3eb03d160629.png">
 
 ## Self-Introduction
-I'm a pseudonymous solidity dev whose main focus is around DeFi, zkp, and AA.  
+I'm a pseudonymous solidity dev whose main focus is around DeFi, ZKP, and Account Abstraction. 
 
 ## Past committments
 
