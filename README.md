@@ -18,6 +18,6 @@ I'm a pseudonymous solidity dev whose main focus is around DeFi, zkp, and AA.
 - [One-click Leverage feature](https://bounties.gitcoin.co/hackathon/open-defi-2/projects/9449/one-click-leverage-feature) at Gitcoin Open DeFi Hackathon: Won the prize for Cream Finance. 
 
 ## Links
-[Twitter](https://twitter.com/porco_rosso_j)  
-Discord: Porco#3106  
-[Gitcoin](https://bounties.gitcoin.co/porco-rosso-j)  
+- [Twitter](https://twitter.com/porco_rosso_j)  
+- Discord: Porco#3106  
+- [Gitcoin](https://bounties.gitcoin.co/porco-rosso-j)  
