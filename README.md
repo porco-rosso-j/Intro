@@ -13,7 +13,7 @@ I'm Porco, a pseudonymous solidity dev whose main focus is around DeFi, ZKP, and
 - [The daily spending limit tutorial](https://era.zksync.io/docs/dev/tutorials/aa-daily-spend-limit.html) I created via zkSync Gitcoin bounty.   
 
 #### 2022
-- [Euler Collateral Plugin](https://bounties.gitcoin.co/hackathon/reserve-launch/projects/17467/euler-collateral-plugin) at Gitcoin Reserve Protocol Hackathon.  
+- [Euler Collateral Plugin](https://bounties.gitcoin.co/hackathon/reserve-launch/projects/17467/euler-collateral-plugin) at Gitcoin Reserve Protocol Hackathon: Won the prize in euler collateral plug-in.    
 
 2021
 - [One-click Leverage feature](https://bounties.gitcoin.co/hackathon/open-defi-2/projects/9449/one-click-leverage-feature) at Gitcoin Open DeFi Hackathon: Won the prize from Cream Finance. 
