@@ -1,4 +1,4 @@
-"A pig gotta fly"  
+"A pig gotta fly" -- Marco Pagot   
 
 ## Intro
 
