@@ -1,10 +1,11 @@
-A pig gotta fly  
+"A pig gotta fly"  
 
 ## Intro
 
 <img width="200" alt="Screen Shot 2022-12-04 at 17 25 34" src="https://user-images.githubusercontent.com/88586592/233834908-dea251cc-72a9-4cb4-a984-3eb03d160629.png">  
 
-I'm Porco, a pseudonymous solidity dev whose main focus is around DeFi, ZKP, and Account Abstraction. 
+I'm Porco, a solo solidity dev whose main focus is around DeFi, ZKP, and Account Abstraction.   
+Languages: Solidity, NodeJs, Typescript, ReactJS.  
 
 ## Past committments
 
@@ -20,7 +21,11 @@ I'm Porco, a pseudonymous solidity dev whose main focus is around DeFi, ZKP, and
 2021
 - [One-click Leverage feature](https://bounties.gitcoin.co/hackathon/open-defi-2/projects/9449/one-click-leverage-feature) at Gitcoin Open DeFi Hackathon: Won the prize from Cream Finance. 
 
+## Blog Posts
+No post yet
+
 ## Links
+- [Github](https://github.com/porco-rosso-j)  
 - [Twitter](https://twitter.com/porco_rosso_j)  
 - Discord: Porco#3106  
 - [Gitcoin](https://bounties.gitcoin.co/porco-rosso-j)  
