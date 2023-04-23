@@ -21,3 +21,4 @@ I'm a pseudonymous solidity dev whose main focus is around DeFi, ZKP, and Accoun
 - [Twitter](https://twitter.com/porco_rosso_j)  
 - Discord: Porco#3106  
 - [Gitcoin](https://bounties.gitcoin.co/porco-rosso-j)  
+- Mail: porcorossoj89@gmail.com
