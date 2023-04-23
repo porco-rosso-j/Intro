@@ -15,7 +15,7 @@ I'm a pseudonymous solidity dev whose main focus is around DeFi, zkp, and AA.
 - [Euler Collateral Plugin](https://bounties.gitcoin.co/hackathon/reserve-launch/projects/17467/euler-collateral-plugin) at Gitcoin Reserve Protocol Hackathon.  
 
 2021
-- [One-click Leverage feature](https://bounties.gitcoin.co/hackathon/open-defi-2/projects/9449/one-click-leverage-feature) at Gitcoin Open DeFi Hackathon: Won the prize for Cream Finance. 
+- [One-click Leverage feature](https://bounties.gitcoin.co/hackathon/open-defi-2/projects/9449/one-click-leverage-feature) at Gitcoin Open DeFi Hackathon: Won the prize from Cream Finance. 
 
 ## Links
 - [Twitter](https://twitter.com/porco_rosso_j)  
