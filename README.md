@@ -8,10 +8,10 @@ Languages: Solidity, NodeJs, Typescript, ReactJS.
 ## Past committments
 
 #### 2023
-- [HyperBOB](https://ethglobal.com/showcase/hyperbob-fz6rz) at ETHGlobal Tokyo: Won the sponsor prizes from zkBOB, Hyperlane and Polygon.  
-- [Bye Bye Private Key](https://ethglobal.com/showcase/bye-bye-private-key-wm3aa) at ETHGlobal Scaling Ethereum: Won the sponsor prizes from zkSync and Optimism.  
-- [Account Trade Limit](https://app.buidlbox.io/projects/nongaswap) at zkSync Era Hack0: Won the first prize in Account Abstraction & Security. 
-- [The daily spending limit tutorial](https://era.zksync.io/docs/dev/tutorials/aa-daily-spend-limit.html) I created via zkSync Gitcoin bounty.   
+- [HyperBOB](https://ethglobal.com/showcase/hyperbob-fz6rz) at ETHGlobal Tokyo: Cross-chain private transfer feature for AA wallet. Won the sponsor prizes from zkBOB, Hyperlane and Polygon.  
+- [Bye Bye Private Key](https://ethglobal.com/showcase/bye-bye-private-key-wm3aa) at ETHGlobal Scaling Ethereum: fingerprint transaction signing feature for AA wallet on zkSync. Won the sponsor prizes from zkSync and Optimism.  
+- [Account Trade Limit](https://app.buidlbox.io/projects/nongaswap) at zkSync Era Hack0: AA wallet with traiding limit fetature on zkSync. Won the first prize in Account Abstraction & Security. 
+- [The daily spending limit tutorial](https://era.zksync.io/docs/dev/tutorials/aa-daily-spend-limit.html) for zkSync Gitcoin bounty: I created an AA wallet with the daily spending limit feature and its tutorial documentation.   
 
 #### 2022
 - [Euler Collateral Plugin](https://bounties.gitcoin.co/hackathon/reserve-launch/projects/17467/euler-collateral-plugin) at Gitcoin Reserve Protocol Hackathon: Won the prize in euler collateral plug-in.    
