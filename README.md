@@ -2,7 +2,7 @@
 
 <img width="200" alt="Screen Shot 2022-12-04 at 17 25 34" src="https://user-images.githubusercontent.com/88586592/233834908-dea251cc-72a9-4cb4-a984-3eb03d160629.png">  
 
-I'm Porco, a solo solidity dev whose main focus is around DeFi, ZKP, and Account Abstraction.   
+I'm Porco, a solo solidity dev whose main interests are around DeFi, ZKP, and Account Abstraction.   
 Languages: Solidity, NodeJs, Typescript, ReactJS.  
 
 ## Past committments
@@ -22,9 +22,9 @@ Languages: Solidity, NodeJs, Typescript, ReactJS.
 ## Blog Posts
 No post yet
 
-## Links
+## Links/Contracts
 - [Github](https://github.com/porco-rosso-j)  
 - [Twitter](https://twitter.com/porco_rosso_j)  
-- Discord: Porco#3106  
-- [Gitcoin](https://bounties.gitcoin.co/porco-rosso-j)  
+- Discord: Porco#3106
+- Telegram: @porco-rosso-j
 - Mail: porcorossoj89@gmail.com
