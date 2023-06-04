@@ -17,7 +17,7 @@ Languages: Solidity, NodeJs, Typescript, ReactJS.
 - [Euler Collateral Plugin](https://bounties.gitcoin.co/hackathon/reserve-launch/projects/17467/euler-collateral-plugin) at Gitcoin Reserve Protocol Hackathon: Won the prize in euler collateral plug-in.    
 
 2021
-- [One-click Leverage feature](https://bounties.gitcoin.co/hackathon/open-defi-2/projects/9449/one-click-leverage-feature) at Gitcoin Open DeFi Hackathon: Won the prize from Cream Finance. 
+- [One-click Leverage feature](https://github.com/OneClickLeverage/Cream-Leverage-Contract) at Gitcoin Open DeFi Hackathon: Won the prize from Cream Finance. 
 
 ## Blog Posts
 No post yet
