@@ -8,6 +8,7 @@ Languages: Solidity, NodeJs, Typescript, ReactJS.
 ## Past committments
 
 #### 2023
+- [AnonAA](https://devfolio.co/projects/anonaa-f675) at ETHPrague: ERC4337-based social recovery wallet with a couple of privacy-preserving features. Got the prizes from Ethereum Foundation and Scroll. 
 - [HyperBOB](https://ethglobal.com/showcase/hyperbob-fz6rz) at ETHGlobal Tokyo: Cross-chain private transfer feature for AA wallet. Won the sponsor prizes from zkBOB, Hyperlane and Polygon.  
 - [Bye Bye Private Key](https://ethglobal.com/showcase/bye-bye-private-key-wm3aa) at ETHGlobal Scaling Ethereum: fingerprint transaction signing feature for AA wallet on zkSync. Won the sponsor prizes from zkSync and Optimism.  
 - [Account Trade Limit](https://app.buidlbox.io/projects/nongaswap) at zkSync Era Hack0: AA wallet with traiding limit fetature on zkSync. Won the first prize in Account Abstraction & Security. 
