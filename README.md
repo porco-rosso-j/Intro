@@ -8,13 +8,13 @@ Languages: Solidity, NodeJs, Typescript, ReactJS.
 ## Past committments
 
 #### 2023
-- [AnonAA](https://devfolio.co/projects/anonaa-f675) at ETHPrague: ERC4337-based social recovery wallet with a couple of privacy-preserving features. Got the prizes from Ethereum Foundation and Scroll. 
+- [AnonAA](https://devfolio.co/projects/anonaa-f675) at ETHPrague in June: ERC4337-based social recovery wallet with a couple of privacy-preserving features. Got the prizes from Ethereum Foundation and Scroll. 
 
-- [HyperBOB](https://ethglobal.com/showcase/hyperbob-fz6rz) at ETHGlobal Tokyo: Cross-chain private transfer feature for AA wallet. Won the sponsor prizes from zkBOB, Hyperlane and Polygon.  
+- [HyperBOB](https://ethglobal.com/showcase/hyperbob-fz6rz) at ETHGlobal Tokyo in Apr: Cross-chain private transfer feature for AA wallet. Won the sponsor prizes from zkBOB, Hyperlane and Polygon.  
 
-- [Bye Bye Private Key](https://ethglobal.com/showcase/bye-bye-private-key-wm3aa) at ETHGlobal Scaling Ethereum: fingerprint transaction signing feature for AA wallet on zkSync. Won the sponsor prizes from zkSync and Optimism.  
+- [Bye Bye Private Key](https://ethglobal.com/showcase/bye-bye-private-key-wm3aa) at ETHGlobal Scaling Ethereum in Mar: fingerprint transaction signing feature for AA wallet on zkSync. Won the sponsor prizes from zkSync and Optimism.  
 
-- [Account Trade Limit](https://app.buidlbox.io/projects/nongaswap) at zkSync Era Hack0: AA wallet with traiding limit fetature on zkSync. Won the first prize in Account Abstraction & Security. 
+- [Account Trade Limit](https://app.buidlbox.io/projects/nongaswap) at zkSync Era Hack0 in Feb: AA wallet with traiding limit fetature on zkSync. Won the first prize in Account Abstraction & Security. 
 
 - [The daily spending limit tutorial](https://era.zksync.io/docs/dev/tutorials/aa-daily-spend-limit.html) for zkSync Gitcoin bounty: I created an AA wallet with the daily spending limit feature and its tutorial documentation.   
 
