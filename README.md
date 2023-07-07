@@ -9,7 +9,7 @@ Languages: Solidity, NodeJs, Typescript, ReactJS.
 
 #### 2023
 
-- [AnonAA](https://devfolio.co/projects/anonaa-f675) at ETHPrague: ERC4337-based social recovery wallet with a couple of privacy-preserving features. Got the prizes from Ethereum Foundation and Scroll. 
+- [AnonAA](https://devfolio.co/projects/anonaa-f675) at ETHPrague: ERC4337-based social recovery wallet that implements private guardians and other privacy-preserving features. Got prizes from Ethereum Foundation (ERC4337) and Scroll. 
 
 - [HyperBOB](https://ethglobal.com/showcase/hyperbob-fz6rz) at ETHGlobal Tokyo: Cross-chain private transfer feature for AA wallet. Won the sponsor prizes from zkBOB, Hyperlane and Polygon.  
 
