@@ -31,6 +31,6 @@ Languages: Solidity, NodeJs, Typescript, ReactJS.
 ## Links/Contacts
 - [Github](https://github.com/porco-rosso-j)  
 - [Twitter](https://twitter.com/porco_rosso_j)  
-- Discord: Porco#3106
+- Discord: porco_rosso_j
 - Telegram: @porco-rosso-j
 - Mail: porcorossoj89@gmail.com
