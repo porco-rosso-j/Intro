@@ -26,7 +26,7 @@ Languages: Solidity, NodeJs, Typescript, ReactJS.
 - [One-click Leverage feature](https://github.com/OneClickLeverage/Cream-Leverage-Contract) at Gitcoin Open DeFi Hackathon: Won the prize from Cream Finance. 
 
 ## Blog Posts
-- [Private ID marketplace disrupts Worldcoin-based voting](https://mirror.xyz/dashboard/edit/WHu7CmIBQ7uI9ntNvU4qw56bL5KS4f25WCsjrXkiUNo)
+- 2023/07/26: [Private ID marketplace disrupts Worldcoin-based voting](https://mirror.xyz/0x80151bf49E99Ea094C15dF208281C096f02E737C/WHu7CmIBQ7uI9ntNvU4qw56bL5KS4f25WCsjrXkiUNo))
 
 ## Links/Contacts
 - [Github](https://github.com/porco-rosso-j)  
