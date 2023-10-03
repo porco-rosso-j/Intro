@@ -9,6 +9,11 @@ Languages: Solidity, NodeJs, Typescript, ReactJS.
 
 #### 2023
 
+##### Projects
+
+- [SafeRecover](https://github.com/porco-rosso-j/safe-recovery-noir): A Safe plugin used for recovering ownership of Safe account with various zk-powered methods, such as zkTouchID, social recovery with private guardians, and secret word. This product is still under development and supported by Safe as a Safe Grant Wave 1 grantee. 
+
+##### Hackathons
 - [AnonAA](https://github.com/porco-rosso-j/zk-ecdsAA) at ETHPrague: ERC4337-based social recovery wallet that implements private guardians and 2 other privacy-preserving features with Noir ZKP, which got prizes from Ethereum Foundation (ERC4337) and Scroll. 
 
 - [HyperBOB](https://ethglobal.com/showcase/hyperbob-fz6rz) at ETHGlobal Tokyo: an ERC4337 wallet with cross-chain private transfer. Won the sponsor prizes from zkBOB, Hyperlane and Polygon.  
