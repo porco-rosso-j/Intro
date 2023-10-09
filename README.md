@@ -3,7 +3,7 @@
 <img width="200" alt="Screen Shot 2022-12-04 at 17 25 34" src="https://user-images.githubusercontent.com/88586592/233834908-dea251cc-72a9-4cb4-a984-3eb03d160629.png">  
 
 I'm Porco, a solo solidity dev whose main interests are around DeFi, ZKP, and Account Abstraction.   
-Languages: Solidity, NodeJs, Typescript, ReactJS.  
+Languages: Solidity, NodeJS, Typescript, React, and Noir.
 
 ## Projects 
 
