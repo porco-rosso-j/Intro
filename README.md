@@ -13,7 +13,9 @@ Languages: Solidity, NodeJs, Typescript, ReactJS.
 
 #### 2023
 
-- [AnonAA](https://github.com/porco-rosso-j/zk-ecdsAA) at ETHPrague: ERC4337-based social recovery wallet that implements private guardians and 2 other privacy-preserving features with Noir ZKP, which got prizes from Ethereum Foundation (ERC4337) and Scroll. 
+- [GhostPay](https://github.com/porco-rosso-j/eth-rome-2023) at ETH Rome: GhostPay lets anyone privately send and receive crypto with a URL link. Plus, users can receive/claim crypto in any tokens they prefer. Got the first prizes from [Peanut Protocol](https://peanut.to/) and [Railgun](https://www.railgun.org/).
+
+- [AnonAA](https://github.com/porco-rosso-j/zk-ecdsAA) at ETHPrague: ERC4337-based social recovery wallet that implements private guardians and two other privacy-preserving features with Noir ZKP, which got prizes from Ethereum Foundation (ERC4337) and Scroll. 
 
 - [HyperBOB](https://ethglobal.com/showcase/hyperbob-fz6rz) at ETHGlobal Tokyo: an ERC4337 wallet with cross-chain private transfer. Won the sponsor prizes from zkBOB, Hyperlane and Polygon.  
 
