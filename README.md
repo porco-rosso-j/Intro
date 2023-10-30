@@ -7,7 +7,7 @@ Languages: Solidity, NodeJS, Typescript, React, and Noir.
 
 ## Projects 
 
-- [SafeRecover](https://github.com/porco-rosso-j/safe-recovery-noir): A Safe plugin used for recovering ownership of Safe account with various zk-powered recovery methods, such as zkTouchID, social recovery with private guardians, and secret word. This product is still under development and supported by Safe as a Safe Grant Wave 1 grantee.
+- [SafeRecover](https://github.com/porco-rosso-j/safe-recovery-noir): A Safe module used for recovering ownership of Safe account with various zk-powered recovery methods, such as private backup address, zkTouchID, social recovery with private guardians, and secret word. The product is still under development as [one of the Safe Grant Wave I grantees](https://safe.mirror.xyz/dM9OXAQe_700TbCMqyi7K2facdaLYvfCh3Th1jCb7hg).
   
 ## Past commitments
 
