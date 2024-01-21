@@ -13,7 +13,7 @@ Tech Stacks: Solidity, NodeJS, Typescript, React, and Noir.
 
 #### 2024
 
-- [Numer0n](https://github.com/porco-rosso-j/aztec-numer0n) A number-guessing game, like Hit&Blow, built on Aztec Sandbox, where two players play against each other and try to figure out the opponent's secret number. The secret numbers are privately stored on smart contracts on-chain.
+- [Numer0n](https://github.com/porco-rosso-j/aztec-numer0n) A number-guessing game, like Hit&Blow, built on Aztec Sandbox, where two players play against each other and try to figure out the opponent's secret number. The secret numbers are privately stored in smart contrcat on Aztec.
 
 #### 2023
 
