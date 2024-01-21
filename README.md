@@ -3,7 +3,7 @@
 <img width="200" alt="Screen Shot 2022-12-04 at 17 25 34" src="https://user-images.githubusercontent.com/88586592/233834908-dea251cc-72a9-4cb4-a984-3eb03d160629.png">  
 
 I'm Porco, a solo solidity dev whose main interests are around DeFi, ZKP, and Account Abstraction.   
-Languages: Solidity, NodeJS, Typescript, React, and Noir.
+Tech Stacks: Solidity, NodeJS, Typescript, React, and Noir.
 
 ## Projects 
 
@@ -11,7 +11,13 @@ Languages: Solidity, NodeJS, Typescript, React, and Noir.
   
 ## Past commitments
 
+#### 2024
+
+- [Numer0n](https://github.com/porco-rosso-j/aztec-numer0n) A number-guessing game, like Hit&Blow, built on Aztec Sandbox, where two players play against each other and try to figure out the opponent's secret number. The secret numbers are privately stored on smart contracts on-chain.
+
 #### 2023
+
+- [AztecSnap](https://github.com/porco-rosso-j/aztec-snap) at ETH Global Istanbul: Aztec Snap is the MetaMask Snap that works on Aztec Sandbox. It's a smart contract wallet that supports ECDSA transaction signing and enables private calls to any Aztec contract. Won the sponsor prize from Aztec.
 
 - [GhostPay](https://github.com/porco-rosso-j/eth-rome-2023) at ETH Rome: GhostPay lets anyone privately send and receive crypto with a URL link. Plus, users can receive/claim crypto in any tokens they prefer. Got the first prizes from [Peanut Protocol](https://peanut.to/) and [Railgun](https://www.railgun.org/).
 
