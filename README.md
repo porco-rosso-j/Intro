@@ -41,6 +41,7 @@ Tech Stacks: Solidity, NodeJS, Typescript, React, and Noir.
 
 ## Blog Posts
 
+- 2024/03/31: [What brought me to crypto and things I'm excited about now](https://mirror.xyz/porco-rosso.eth/ghsq7-AiY_mMJ-tVnWMDMKAc3nByeyfNIHhhOFfUUyQ)
 - 2023/07/26: [Private ID marketplace that could disrupt Worldcoin-based voting system](https://mirror.xyz/0x80151bf49E99Ea094C15dF208281C096f02E737C/WHu7CmIBQ7uI9ntNvU4qw56bL5KS4f25WCsjrXkiUNo)
 
 ## Links/Contacts
