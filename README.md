@@ -9,15 +9,17 @@ Tech Stacks: Solidity, NodeJS, Typescript, React, and Noir.
 
 - [SafeRecover](https://github.com/porco-rosso-j/safe-recovery-noir): A Safe module used for recovering ownership of Safe account with various zk-powered recovery methods, such as private backup address, zkTouchID, social recovery with private guardians, and secret word. The product is still under development as [one of the Safe Grant Wave I grantees](https://safe.mirror.xyz/dM9OXAQe_700TbCMqyi7K2facdaLYvfCh3Th1jCb7hg).
 
+- [AztecSnap](https://github.com/porco-rosso-j/aztec-snap) at ETH Global Istanbul: Aztec Snap is the MetaMask Snap that works on Aztec Sandbox. It's a smart contract wallet that supports ECDSA transaction signing and enables private calls to any Aztec contract. Won the sponsor prize from Aztec.
+
 ## Past commitments
 
 #### 2024
 
+- [Banganoir](https://ethglobal.com/showcase/banganoir-sozqd): An ERC4337 Wallet controlled by Aadhaar identity, which integrates OTP powered by Noir to provide an additional layer of security for your funds. Got a prize from [AnonAadhaar](https://pse.dev/en/projects/anon-aadhaar).
+
 - [Numer0n](https://github.com/porco-rosso-j/aztec-numer0n): A number-guessing game, like Hit&Blow, built on Aztec Sandbox, where two players play against each other and try to figure out the opponent's secret number. The secret numbers are privately stored in smart contrcat on Aztec.
 
 #### 2023
-
-- [AztecSnap](https://github.com/porco-rosso-j/aztec-snap) at ETH Global Istanbul: Aztec Snap is the MetaMask Snap that works on Aztec Sandbox. It's a smart contract wallet that supports ECDSA transaction signing and enables private calls to any Aztec contract. Won the sponsor prize from Aztec.
 
 - [GhostPay](https://github.com/porco-rosso-j/eth-rome-2023) at ETH Rome: GhostPay lets anyone privately send and receive crypto with a URL link. Plus, users can receive/claim crypto in any tokens they prefer. Got the first prizes from [Peanut Protocol](https://peanut.to/) and [Railgun](https://www.railgun.org/).
 
@@ -42,6 +44,7 @@ Tech Stacks: Solidity, NodeJS, Typescript, React, and Noir.
 ## Blog Posts
 
 - 2024/03/31: [What brought me to crypto and things I'm excited about now](https://mirror.xyz/porco-rosso.eth/ghsq7-AiY_mMJ-tVnWMDMKAc3nByeyfNIHhhOFfUUyQ)
+
 - 2023/07/26: [Private ID marketplace that could disrupt Worldcoin-based voting system](https://mirror.xyz/0x80151bf49E99Ea094C15dF208281C096f02E737C/WHu7CmIBQ7uI9ntNvU4qw56bL5KS4f25WCsjrXkiUNo)
 
 ## Links/Contacts
@@ -49,5 +52,5 @@ Tech Stacks: Solidity, NodeJS, Typescript, React, and Noir.
 - [Github](https://github.com/porco-rosso-j)
 - [Twitter](https://twitter.com/porco_rosso_j)
 - Discord: porco_rosso_j
-- Telegram: @porco-rosso-j
+- Telegram: @porco_rosso_j
 - Mail: porcorossoj89@gmail.com
