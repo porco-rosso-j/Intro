@@ -9,7 +9,7 @@ Tech Stacks: Solidity, NodeJS, Typescript, React, and Noir.
 
 - [SafeRecover](https://github.com/porco-rosso-j/safe-recovery-noir): A Safe module used for recovering ownership of Safe account with various zk-powered recovery methods, such as private backup address, zkTouchID, social recovery with private guardians, and secret word. The product is still under development as [one of the Safe Grant Wave I grantees](https://safe.mirror.xyz/dM9OXAQe_700TbCMqyi7K2facdaLYvfCh3Th1jCb7hg).
 
-- [AztecSnap](https://github.com/porco-rosso-j/aztec-snap) at ETH Global Istanbul: Aztec Snap is the MetaMask Snap that works on Aztec Sandbox. It's a smart contract wallet that supports ECDSA transaction signing and enables private calls to any Aztec contract. Won the sponsor prize from Aztec.
+- [AztecSnap](https://github.com/porco-rosso-j/aztec-snap): A MetaMask Snap that works on Aztec, a privacy first zk-rollup on Ethereum. It's a smart contract wallet that supports ECDSA signature and enables private calls to any Aztec contract. Won the sponsor prize from Aztec at ETH Global Istanbul.
 
 ## Past commitments
 
