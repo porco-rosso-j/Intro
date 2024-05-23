@@ -1,9 +1,7 @@
-"A pig that doesn't fly is just a pig" -- Marco Pagot
-
 <img width="200" alt="Screen Shot 2022-12-04 at 17 25 34" src="https://user-images.githubusercontent.com/88586592/233834908-dea251cc-72a9-4cb4-a984-3eb03d160629.png">
 
 I'm Porco, a solo solidity dev whose main interests are around DeFi, ZKP, and Account Abstraction.  
-Tech Stacks: Solidity, NodeJS, Typescript, React, and Noir.
+Tech Stacks: Solidity, NodeJS, Typescript, React, and Noir ( + learning Rust ).
 
 ## Projects
 
@@ -14,6 +12,8 @@ Tech Stacks: Solidity, NodeJS, Typescript, React, and Noir.
 ## Past commitments
 
 #### 2024
+
+- [BatcherVault](https://github.com/porco-rosso-j/aztec-dex-build): It allows users to obfuscate their swap amounts when they trade on AMMs on Aztec zk-rollup. It leverages an additive homomorphic encryption scheme to encrypt and aggregate users' input amounts without revealing individual amounts. Got top prize from Aztec at [Alpha DEX BUILD hackathon](https://collective.flashbots.net/t/privacy-focussed-dexs-and-building-it-on-aztec/3225). 
 
 - [Banganoir](https://ethglobal.com/showcase/banganoir-sozqd): An ERC4337 Wallet controlled by Aadhaar identity, which integrates OTP powered by Noir to provide an additional layer of security for your funds. Got a prize from [AnonAadhaar](https://pse.dev/en/projects/anon-aadhaar).
 
@@ -54,3 +54,5 @@ Tech Stacks: Solidity, NodeJS, Typescript, React, and Noir.
 - Discord: porco_rosso_j
 - Telegram: @porco_rosso_j
 - Mail: porcorossoj89@gmail.com
+
+
