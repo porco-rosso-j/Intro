@@ -13,6 +13,8 @@ Tech Stacks: Solidity, NodeJS, Typescript, React, and Noir ( + learning Rust ).
 
 #### 2024
 
+- [Dry](https://ethglobal.com/showcase/dry-2gcc3) : A private seedless smart account based on Safe and ERC7579, that allows owners to sign transactions with FaceID by providing zero-knowledge proofs using Noir. Built at [ETHGlobal Brussels](https://ethglobal.com/events/brussels) and got prizes from Safe, Scroll, and Polygon.
+
 - [BatcherVault](https://github.com/porco-rosso-j/aztec-dex-build): It allows users to obfuscate their swap amounts when they trade on AMMs on Aztec zk-rollup. It leverages an additive homomorphic encryption scheme to encrypt and aggregate users' input amounts without revealing individual amounts. Got top prize from Aztec at [Alpha DEX BUILD hackathon](https://collective.flashbots.net/t/privacy-focussed-dexs-and-building-it-on-aztec/3225). 
 
 - [Banganoir](https://ethglobal.com/showcase/banganoir-sozqd): An ERC4337 Wallet controlled by Aadhaar identity, which integrates OTP powered by Noir to provide an additional layer of security for your funds. Got a prize from [AnonAadhaar](https://pse.dev/en/projects/anon-aadhaar).
