@@ -1,17 +1,17 @@
 <img width="200" alt="Screen Shot 2022-12-04 at 17 25 34" src="https://user-images.githubusercontent.com/88586592/233834908-dea251cc-72a9-4cb4-a984-3eb03d160629.png">
 
-I'm Porco, a solo solidity dev whose main interests are around DeFi, ZKP, and Account Abstraction.  
+I'm Porco, a solidity dev whose main interests are around DeFi, ZKP, and Account Abstraction.  
 Tech Stacks: Solidity, NodeJS, Typescript, React, and Noir ( + learning Rust ).
 
 ## Projects
 
-- [SafeRecover](https://github.com/porco-rosso-j/safe-recovery-noir): A Safe module used for recovering ownership of Safe account with various zk-powered recovery methods, such as private backup address, zkTouchID, social recovery with private guardians, and secret word. The product is still under development as [one of the Safe Grant Wave I grantees](https://safe.mirror.xyz/dM9OXAQe_700TbCMqyi7K2facdaLYvfCh3Th1jCb7hg).
-
-- [AztecSnap](https://github.com/porco-rosso-j/aztec-snap): A MetaMask Snap that works on Aztec, a privacy first zk-rollup on Ethereum. It's a smart contract wallet that supports ECDSA signature and enables private calls to any Aztec contract. Won the sponsor prize from Aztec at ETH Global Istanbul.
+- [Obsidion Wallet](https://obsidion.xyz/): A smart account that allows users to sign transactions with TouchID and interact with privacy-preserving apps and protocols on Aztec zk-rollup. It integrates zkPassport to provide first-class identity management in the wallet, which can be utilizied for compliance and other various use cases requiring sybil-resistance. Selected as a grantee of [the Wallet RGP by Aztec Labs](https://forum.aztec.network/t/request-for-grant-proposals-wallets/6136). 
 
 ## Past commitments
 
 #### 2024
+
+- [Aztec Mobile Wallet{Dry}](https://github.com/porco-rosso-j/aztec-mobile-wallet-dry): A mobile wallet on Aztec Network that allows users to control their wallet with Face ID/TouchID-based keypair secured by the iPhone’s Secure Enclave. It lets them privately hold, send, and receive assets and interact with privacy-preserving applications. Got the third place of winners at [Aztec's Alpha Build 1](https://aztec.network/blog/shaping-the-future-of-payments-meet-the-winners-of-alpha-build-one).
 
 - [Dry](https://ethglobal.com/showcase/dry-2gcc3) : A private seedless smart account based on Safe and ERC7579, that allows owners to sign transactions with FaceID by providing zero-knowledge proofs using Noir. Built at [ETHGlobal Brussels](https://ethglobal.com/events/brussels) and got prizes from Safe, Scroll, and Polygon.
 
@@ -22,6 +22,10 @@ Tech Stacks: Solidity, NodeJS, Typescript, React, and Noir ( + learning Rust ).
 - [Numer0n](https://github.com/porco-rosso-j/aztec-numer0n): A number-guessing game, like Hit&Blow, built on Aztec Sandbox, where two players play against each other and try to figure out the opponent's secret number. The secret numbers are privately stored in smart contrcat on Aztec.
 
 #### 2023
+
+- [SafeRecover](https://github.com/porco-rosso-j/safe-recovery-noir): A Safe module used for recovering ownership of Safe account with various zk-powered recovery methods, such as private backup address, zkTouchID, social recovery with private guardians, and secret word. The product is still under development as [one of the Safe Grant Wave I grantees](https://safe.mirror.xyz/dM9OXAQe_700TbCMqyi7K2facdaLYvfCh3Th1jCb7hg).
+
+- [AztecSnap](https://github.com/porco-rosso-j/aztec-snap): A MetaMask Snap that works on Aztec, a privacy first zk-rollup on Ethereum. It's a smart contract wallet that supports ECDSA signature and enables private calls to any Aztec contract. Won the sponsor prize from Aztec at ETH Global Istanbul.
 
 - [GhostPay](https://github.com/porco-rosso-j/eth-rome-2023) at ETH Rome: GhostPay lets anyone privately send and receive crypto with a URL link. Plus, users can receive/claim crypto in any tokens they prefer. Got the first prizes from [Peanut Protocol](https://peanut.to/) and [Railgun](https://www.railgun.org/).
 
