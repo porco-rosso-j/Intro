@@ -5,7 +5,7 @@ Tech Stacks: Solidity, NodeJS, Typescript, React, and Noir ( + learning Rust ).
 
 ## Projects
 
-- [Obsidion Wallet](https://obsidion.xyz/): A smart account that allows users to sign transactions with TouchID and interact with privacy-preserving apps and protocols on Aztec zk-rollup. It integrates zkPassport to provide first-class identity management in the wallet, which can be utilizied for compliance and other various use cases requiring sybil-resistance. Selected as a grantee of [the Wallet RGP by Aztec Labs](https://forum.aztec.network/t/request-for-grant-proposals-wallets/6136). 
+- [Obsidion Wallet](https://obsidion.xyz/): A smart account that allows users to sign transactions with TouchID and interact with privacy-preserving apps and protocols on Aztec zk-rollup. It integrates zkPassport to provide first-class identity management in the wallet, which can be utilizied for compliance and other various use cases requiring sybil-resistance. A grantee of [the Wallet RGP by Aztec Labs](https://forum.aztec.network/t/request-for-grant-proposals-wallets/6136). 
 
 ## Past commitments
 
